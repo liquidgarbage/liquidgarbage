@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @liquidgarbage
-- 🌱 I’m currently learning front-end web development with EDX Front-end Skills Bootcamp.
+- 🌱 I’m currently learning front-end web development with EDX Front-End Skills Bootcamp.
 - We have covered:
 - [x] JavaScript
 - [x] CSS
@@ -13,9 +13,9 @@
 - [x] Structuring, positioning, and optimisation of web page content
 - [ ] React. js
 - [ ] Netlify
-- [ ] Developing with APIs
-- [ ] Javascript framework
-- [ ] DOM manipulation
+- [x] Developing with APIs
+- [x] Javascript framework
+- [x] DOM manipulation
 - [ ] Web-based applications
 - [ ] Data extraction and retrieval
 - [ ] C#
